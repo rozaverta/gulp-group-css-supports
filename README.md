@@ -1,6 +1,6 @@
 # gulp-group-css-supports
 
-[NPM v1.0.0](https://www.npmjs.com/package/gulp-group-css-supports)
+[NPM v1.0](https://www.npmjs.com/package/gulp-group-css-supports)
 
 > CSS postprocessing: group supports content. Useful for postprocessing preprocessed CSS files.
 

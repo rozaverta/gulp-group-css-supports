@@ -1,6 +1,6 @@
 {
   "name": "gulp-group-css-supports",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CSS postprocessing: group supports",
   "main": "index.js",
   "scripts": {
